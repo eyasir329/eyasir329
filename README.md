@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Eyasir Ahamed<br>
-I am currently work for 'c programming' and 'front end development'<br>
+I am currently work for 'c programming','front end development' and 'javascript developments'<br>
 My Facebook id : www.fb.com/eyasir329
 
 <!--
