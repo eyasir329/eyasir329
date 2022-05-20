@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Eyasir Ahamed<br>
+CSE Student at <a href="https://www.shu.edu.bd/">Sheikh Hasina University</a>
 I am currently work for <i>c programming, front end development and javascript developments</i><br>
 <h2>Reach me about this link</h2>
 My Facebook id : <a href="https://www.facebook.com/eyasir329"><b>eyasir329</b></a><br>
