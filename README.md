@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Eyasir Ahamed<br>
 I am currently work for 'c programming','front end development' and 'javascript developments'<br>
-My Facebook id : www.fb.com/eyasir329
+My Facebook id : https://www.facebook.com/eyasir329
 
 <!--
 **eyasir329/eyasir329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
