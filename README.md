@@ -6,6 +6,9 @@ I am currently work for <i>c programming, front end development and javascript d
 My Facebook id : <a href="https://www.facebook.com/eyasir329"><b>eyasir329</b></a><br>
 Find me in <a href="https://www.beecrowd.com.br/judge/en/profile/666969"><b>Beecrowd</b></a><br>
 Find me in <a href="https://codeforces.com/profile/eyasir329"><b>Codeforces</b></a><br>
+Find me in <a href="https://www.hackerrank.com/eyasir329"><b>HackerRank</b></a><br>
+Find me in <a href="https://www.codechef.com/users/eyasir329"><b>CodeChef</b></a><br>
+Find me in <a href="https://lightoj.com/user/eyasir329"><b>Lightoj</b></a><br>
 <h2>Mail me :</h2>
 <h3><a href="mailto:eyasir.shu.cse@gmail.com"><b>eyasir.shu.cse@gmail.com</b></a></h3>
 
