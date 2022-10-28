@@ -11,8 +11,6 @@ Find me in <a href="https://www.beecrowd.com.br/judge/en/profile/666969"><b>Beec
 <a href="https://lightoj.com/user/eyasir329"><b>Lightoj</b></a><br>
 <h2>Mail me :</h2>
 <h3><a href="mailto:202004017@shu.edu.bd"><b>202004017@shu.edu.bd</b></a></h3>
-<h3><a href="mailto:eyasir.shu.cse@gmail.com"><b>eyasir.shu.cse@gmail.com</b></a></h3>
-<h3><a href="mailto:eyasir329@gmail.com"><b>eyasir329@gmail.com</b></a></h3>
 
 <!--
 **eyasir329/eyasir329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
