@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Eyasir Ahamed<br>
 CSE Student at <a href="https://www.shu.edu.bd/">Sheikh Hasina University</a><br>
-I am currently work for <i>c programming, front end development and javascript developments</i><br>
+I am currently work for <i>competative programming, front end development and javascript developments</i><br>
 <h2>Reach me in this link</h2>
 My Facebook id : <a href="https://www.facebook.com/eyasir329"><b>eyasir329</b></a><br>
 Find me in <a href="https://www.beecrowd.com.br/judge/en/profile/666969"><b>Beecrowd,</b></a>&nbsp;
