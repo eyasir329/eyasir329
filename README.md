@@ -1,9 +1,10 @@
 ### Hi!!! 👋
 <h1>I'm Eyasir Ahamed<h1>
-Undergraduate Student at <a href="https://www.shu.edu.bd/">Sheikh Hasina University</a>, In the Department of CSE<br>
+<h3>Undergraduate Student at <a href="https://www.shu.edu.bd/">Sheikh Hasina University</a>,<br> In the Department of CSE<h3>
 <br>
-#I'm a <i>competative programmer</i><br>
-🌱 I’m currently learning on full-stack-development
+<br>
+#I'm a <i>competative programmer</i><br> and
+🌱currently learning on full-stack-development
 <br>
 <h2>Reach me in this link</h2>
 My Facebook id : <a href="https://www.facebook.com/eyasir329"><b>eyasir329</b></a><br>
