@@ -12,5 +12,5 @@ Find me in
 <a href="https://atcoder.jp/users/eyasir329"><b>AtCoder,</b></a>&nbsp;
 <a href="https://www.codechef.com/users/eyasir329"><b>CodeChef</b></a>&nbsp;
 <a href="https://www.stopstalk.com/user/profile/eyasir_shu_cse_002"><b>StopStalk</b></a>&nbsp;
-<h3>If you wish to 💬 contact me then mail into:</h3>
+<h3>If you wish to 💬 contact me:</h3>
 <a href="eyasir329@gmail.com"><b>eyasir329@gmail.com</b></a>
