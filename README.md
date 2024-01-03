@@ -4,7 +4,7 @@
 >>I'm a <i>competative programmer</i><br>and
 🌱currently learning on full-stack-development
 <br>
-<h2>Reach me in this link</h2>
+<h2>Reach me if you wish!</h2>
 web : <a href="https://www.eyasir329.com/"><b>eyasir329.com</b></a><br>
 fb : <a href="https://www.facebook.com/eyasir329"><b>eyasir329</b></a><br>
 Find me in
