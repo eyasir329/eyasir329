@@ -13,25 +13,25 @@
 
 ## Competitive Programming
 <a href="https://codeforces.com/profile/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=1f8acb&logo=codeforces&style=flat-square" alt="Codeforces">
+  <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=344C64&logo=codeforces&style=flat-square" alt="Codeforces">
 </a>
 <a href="https://atcoder.jp/users/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=AtCoder&color=1f8acb&logo=atcoder&style=flat-square" alt="AtCoder">
+  <img src="https://img.shields.io/static/v1?label=&message=AtCoder&color=344C64&logo=atcoder&style=flat-square" alt="AtCoder">
 </a>
 <a href="https://www.codechef.com/users/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=CodeChef&color=1f8acb&logo=codechef&style=flat-square" alt="CodeChef">
+  <img src="https://img.shields.io/static/v1?label=&message=CodeChef&color=344C64&logo=codechef&style=flat-square" alt="CodeChef">
 </a>
 <a href="https://leetcode.com/u/eyasir329/">
-  <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=1f8acb&logo=leetcode&style=flat-square" alt="LeetCode">
+  <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=344C64&logo=leetcode&style=flat-square" alt="LeetCode">
 </a>
 <a href="https://www.hackerrank.com/profile/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=HackerRank&color=1f8acb&logo=hackerrank&style=flat-square" alt="HackerRank">
+  <img src="https://img.shields.io/static/v1?label=&message=HackerRank&color=344C64&logo=hackerrank&style=flat-square" alt="HackerRank">
 </a>
 <a href="https://www.stopstalk.com/user/profile/eyasir_shu_cse_002">
-  <img src="https://img.shields.io/static/v1?label=&message=StopStalk&color=1f8acb&logo=stopstalk&style=flat-square" alt="StopStalk">
+  <img src="https://img.shields.io/static/v1?label=&message=StopStalk&color=344C64&logo=stopstalk&style=flat-square" alt="StopStalk">
 </a>
 <a href="https://clist.by/coder/eyasir329/">
-  <img src="https://img.shields.io/static/v1?label=&message=CLIST&color=1f8acb&logo=linux&style=flat-square" alt="CLIST">
+  <img src="https://img.shields.io/static/v1?label=&message=CLIST&color=344C64&logo=linux&style=flat-square" alt="CLIST">
 </a>
 
 ## If you wish to 💬 contact me:
@@ -43,8 +43,8 @@
 <img src="https://img.shields.io/static/v1?&message=C&color=00599C&logo=C&label=" alt="C">
 <img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=" alt="C++">
 <img src="https://img.shields.io/static/v1?&message=Java&color=c93618&logo=java&logoColor=white&label=" alt="Java">
-<img src="https://img.shields.io/static/v1?&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=white&label=" alt="JavaScript">
-<img src="https://img.shields.io/static/v1?&message=Python&color=000000&logo=python&logoColor=c9e307&label=" alt="Python">
+<img src="https://img.shields.io/static/v1?&message=JavaScript&color=577B8D&logo=javascript&logoColor=white&label=" alt="JavaScript">
+<img src="https://img.shields.io/static/v1?&message=Python&color=524C42&logo=python&logoColor=c9e307&label=" alt="Python">
 
 ***Frontend Technologies***<br><br>
 <img src="https://img.shields.io/static/v1?&message=HTML&color=E34F26&logo=html5&logoColor=white&label=" alt="HTML">
