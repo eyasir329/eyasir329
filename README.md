@@ -14,3 +14,20 @@ Find me in
 <a href="https://www.stopstalk.com/user/profile/eyasir_shu_cse_002"><b>StopStalk</b></a>&nbsp;
 <h3>If you wish to 💬 contact me:</h3>
 <a href="eyasir329@gmail.com"><b>eyasir329@gmail.com</b></a>
+
+## 📈 ***GitHub Stats***
+
+<p align="center">
+<a align="left" href="https://github.com/eyasir329">
+<img alt="eyasir329's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=eyasir329&show_icons=true&count_private=true&theme=algolia&hide_border=true" /> </a>
+</p>
+<p align="center">
+<a href="https://github.com/eyasir329">
+<img alt="eyasir329's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir329&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
+</p>
+
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=eyasir329&label=Profile%20Views&color=1&icon=8&pretty=true" />
+</a>
+</p>
