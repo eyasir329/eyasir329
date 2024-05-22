@@ -15,6 +15,16 @@ Find me in
 <h3>If you wish to 💬 contact me:</h3>
 <a href="eyasir329@gmail.com"><b>eyasir329@gmail.com</b></a>
 
+## 🛠️ ***My Tech***
+
+![C](https://img.shields.io/static/v1?&message=C&color=00599C&logo=C%2B%2B&label=&)
+![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=&)
+![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
+![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=c93618&logo=Java&label=)
+![Python](https://img.shields.io/static/v1?&message=Python&color=000000&logo=python&logoColor=c9e307&label=&)
+
+
+
 ## 📈 ***GitHub Stats***
 
 <p align="center">
