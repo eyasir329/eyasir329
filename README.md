@@ -1,7 +1,7 @@
 ### Hi!!! 👋
 
 <h1>I'm Eyasir Ahamed</h1>
-<h3>Undergraduate Student at <a href="https://www.shu.edu.bd/">Sheikh Hasina University</a>,<br> in the Department of CSE</h3>
+<h3>Undergraduate Student at <a href="https://www.shu.edu.bd/">University of Netrokona</a>,<br> in the Department of CSE</h3>
 
 <p>I'm a <i>competitive programmer</i> and currently learning full-stack development.</p>
 
