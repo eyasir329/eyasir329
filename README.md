@@ -1,80 +1,235 @@
-### Hi!!! 👋
-
-<h1>I'm Eyasir Ahamed</h1>
-<h3>Undergraduate Student at <a href="https://neu.ac.bd/">Netrokona University</a>,<br> in the Department of CSE</h3>
-
-<p>I'm a <i>competitive programmer</i> and currently learning full-stack development.</p>
-
-## Reach me if you wish!
-
-- **Portfolio**: <a href="https://www.eyasir329.com/"><b>eyasir329.com</b></a><br>
-- **LinkedIn**: <a href="https://www.linkedin.com/in/eyasir329/"><b>eyasir329</b></a><br>
-- **Facebook**: <a href="https://www.facebook.com/eyasir329"><b>eyasir329</b></a><br>
-
-## Competitive Programming
-<a href="https://codeforces.com/profile/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=344C64&logo=codeforces&style=flat-square" alt="Codeforces">
-</a>
-<a href="https://atcoder.jp/users/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=AtCoder&color=344C64&logo=atcoder&style=flat-square" alt="AtCoder">
-</a>
-<a href="https://www.codechef.com/users/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=CodeChef&color=344C64&logo=codechef&style=flat-square" alt="CodeChef">
-</a>
-<a href="https://leetcode.com/u/eyasir329/">
-  <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=344C64&logo=leetcode&style=flat-square" alt="LeetCode">
-</a>
-<a href="https://www.hackerrank.com/profile/eyasir329">
-  <img src="https://img.shields.io/static/v1?label=&message=HackerRank&color=344C64&logo=hackerrank&style=flat-square" alt="HackerRank">
-</a>
-<a href="https://www.stopstalk.com/user/profile/eyasir_shu_cse_002">
-  <img src="https://img.shields.io/static/v1?label=&message=StopStalk&color=344C64&logo=stopstalk&style=flat-square" alt="StopStalk">
-</a>
-<a href="https://clist.by/coder/eyasir329/">
-  <img src="https://img.shields.io/static/v1?label=&message=CLIST&color=344C64&logo=linux&style=flat-square" alt="CLIST">
-</a>
-
-## If you wish to 💬 contact me:
-
-<a href="mailto:eyasir329@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=eyasir329@gmail.com&color=1f8acb&style=flat-square&logo=gmail" alt="Email"></a>
-
-## 🛠️ ***My Tech***
-***Languages***<br><br>
-<img src="https://img.shields.io/static/v1?&message=C&color=00599C&logo=C&label=" alt="C">
-<img src="https://img.shields.io/static/v1?&message=C%2B%2B&color=00599C&logo=C%2B%2B&label=" alt="C++">
-<img src="https://img.shields.io/static/v1?&message=Java&color=c93618&logo=java&logoColor=white&label=" alt="Java">
-<img src="https://img.shields.io/static/v1?&message=JavaScript&color=577B8D&logo=javascript&logoColor=white&label=" alt="JavaScript">
-<img src="https://img.shields.io/static/v1?&message=Python&color=524C42&logo=python&logoColor=c9e307&label=" alt="Python">
-
-***Frontend Technologies***<br><br>
-<img src="https://img.shields.io/static/v1?&message=HTML&color=E34F26&logo=html5&logoColor=white&label=" alt="HTML">
-<img src="https://img.shields.io/static/v1?&message=CSS&color=1572B6&logo=css3&logoColor=white&label=" alt="CSS">
-<img src="https://img.shields.io/static/v1?&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=white&label=" alt="Bootstrap">
-<img src="https://img.shields.io/static/v1?&message=Tailwind%20CSS&color=06B6D4&logo=tailwindcss&logoColor=white&label=" alt="Tailwind CSS">
-<img src="https://img.shields.io/static/v1?&message=React&color=61DAFB&logo=react&logoColor=white&label=" alt="React">
-
-***Backend Technologies***<br><br>
-<img src="https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=nodedotjs&logoColor=white&label=" alt="Node.js">
-<img src="https://img.shields.io/static/v1?&message=Express&color=000000&logo=express&logoColor=white&label=" alt="Express">
-
-***Databases***<br><br>
-<img src="https://img.shields.io/static/v1?&message=MySQL&color=4479A1&logo=mysql&logoColor=white&label=" alt="MySQL">
-<img src="https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=mongodb&logoColor=white&label=" alt="MongoDB">
-
-
-## 📈 ***GitHub Stats***
-
+<!-- ============================== HEADER ============================== -->
 <p align="center">
-<a align="left" href="https://github.com/eyasir329">
-<img alt="eyasir329's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=eyasir329&show_icons=true&count_private=true&theme=algolia&hide_border=true" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/eyasir329">
-<img alt="eyasir329's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir329&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
+  <img width="100%" alt="Eyasir Ahamed — Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=230&section=header&text=Eyasir%20Ahamed&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Competitive%20Programmer&descSize=18&descAlignY=56" />
 </p>
 
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=eyasir329&label=Profile%20Views&color=1&icon=8&pretty=true" />
-</a>
+  <a href="https://github.com/eyasir329">
+    <img alt="Typing roles" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%7C+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;ICPC+2025+Asia+Dhaka+Regionalist;1000%2B+problems+solved+across+online+judges;Building+AI-integrated+web+platforms;Open+to+Junior+Software+Engineering+roles+%F0%9F%9A%80" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Open to work" src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=0d1117" />
+  <img alt="Location" src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-1e3a8a?style=for-the-badge&labelColor=0d1117" />
+  <img alt="Remote friendly" src="https://img.shields.io/badge/Remote-Friendly-06b6d4?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+<p align="center">
+  <a href="https://www.eyasir329.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-eyasir329.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eyasir329/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eyasir329-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eyasir329@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eyasir329%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/eyasir329"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-eyasir329-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.facebook.com/eyasir329"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-eyasir329-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science & Engineering graduate** from Netrokona University and a **full-stack developer** who builds production-grade web apps with **React, Next.js, Node.js, TypeScript and PostgreSQL**. I care about role-based, secure and AI-integrated systems, and I've solved **1000+ algorithmic problems** on my way to the **ICPC Asia Dhaka Regional**.
+
+```ts
+const eyasir = {
+  role: "Full-Stack Developer · Software Engineer",
+  education: "B.Sc. in CSE — Netrokona University (2022 – 2026)",
+  location: "Netrokona, Bangladesh 🇧🇩",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "Supabase", "REST APIs", "OAuth 2.0"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB"],
+    devops: ["Docker", "Linux", "GitHub Actions", "Vercel", "CI/CD"],
+  },
+  problemSolving: { solved: "1000+", icpc: "Asia Dhaka Regional 2025 — Divisional Champion" },
+  currentlyBuilding: "Joborx — an AI-powered job-hunting assistant",
+  lookingFor: ["Software Engineering", "DevOps & Cloud", "QA", "AI/ML Engineering"],
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts&theme=dark" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img alt="Backend and databases" src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql,mongodb&theme=dark" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img alt="Tools and DevOps" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>Concepts:</b> Data Structures &amp; Algorithms • OOP • System Design • Database Design • Authentication &amp; Authorization • LLM Integration</sub>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/eyasir329/NEUPC">NEUPC</a></h3>
+      <p><b>Full-stack club management platform</b></p>
+      <ul>
+        <li>Role-based, multi-tenant platform for students, mentors &amp; admins with <b>database-level access control</b>.</li>
+        <li>Competitive programming tracker integrating <b>dozens of online judges</b>, plus a custom <b>browser extension</b> for automatic submission &amp; rating sync.</li>
+        <li><b>AI-assisted</b> solution analysis with provider fallback, real-time chat, forums and secure sign-in; <b>deployed to production</b>.</li>
+      </ul>
+      <p>
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img alt="Auth.js" src="https://img.shields.io/badge/Auth.js-7C3AED?style=flat-square&logo=auth0&logoColor=white" />
+      </p>
+      <a href="https://github.com/eyasir329/NEUPC"><img alt="View NEUPC repository" src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Joborx <sub><img alt="In progress" src="https://img.shields.io/badge/in%20progress-f59e0b?style=flat-square" /></sub></h3>
+      <p><b>AI-powered job-hunting assistant</b></p>
+      <ul>
+        <li><b>AI job-matching engine</b> that reads resumes, scores listings for fit and explains each score in plain language.</li>
+        <li>Automated <b>research agent</b> that browses company websites to prepare interview-prep summaries on demand.</li>
+        <li>Built to stay up when an AI provider fails, with a <b>bilingual (English / Bengali)</b> interface.</li>
+      </ul>
+      <p>
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img alt="LLM" src="https://img.shields.io/badge/LLM%20Agents-10B981?style=flat-square&logo=openaigym&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📂 More projects (click to expand)</b></summary>
+<br />
+
+| Project | What it does | Tech |
+| :-- | :-- | :-- |
+| 🧳 [**Tourmate**](https://github.com/eyasir329/tourmate) | Tour &amp; hotel booking platform with role-based dashboards | React · Express · MySQL |
+| 🎓 [**Eduflow329**](https://github.com/eyasir329/eduflow329) | Academic management system with role-based access | React · Express · MySQL |
+| 🚗 [**Surveillance Car**](https://github.com/eyasir329/surveillanceCar_using_esp32) | Wireless camera vehicle with real-time video monitoring | C++ · ESP32 |
+
+</details>
+
+---
+
+## 🏆 Competitive Programming Journey
+
+<p align="center">
+  <img alt="Problems solved" src="https://img.shields.io/badge/Problems%20Solved-1000%2B-f59e0b?style=for-the-badge&labelColor=0d1117" />
+  <img alt="ICPC" src="https://img.shields.io/badge/ICPC%202025-Asia%20Dhaka%20Regionalist-06b6d4?style=for-the-badge&labelColor=0d1117" />
+  <img alt="Divisional champion" src="https://img.shields.io/badge/Mymensingh-Divisional%20Champion%20%F0%9F%A5%87-eab308?style=for-the-badge&labelColor=0d1117" />
+  <a href="https://codeforces.com/profile/eyasir329"><img alt="Codeforces max rating" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Deyasir329&query=%24.result%5B0%5D.maxRating&label=Codeforces%20Max%20Rating&logo=codeforces&logoColor=white&style=for-the-badge&color=1F8ACB&labelColor=0d1117" /></a>
+</p>
+
+| 📅 Year | 🏁 Contest | 🎯 Result |
+| :-: | :-- | :-- |
+| 2025 | **ICPC Asia Dhaka Regional** (BUBT) | **112th overall** out of 300+ teams • 🥇 **Mymensingh Divisional Champion** |
+| 2025 – 26 | **MU, NSUCEC & BUET** Inter-University Programming Contests | Ranked **40th – 75th** |
+| Onsite | **UU, DUET, UIU, KUET, IUT** IUPCs + more | Competed onsite in **7+ national contests** |
+
+<p align="center"><b>Find me on the judges 👇</b></p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/eyasir329"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://atcoder.jp/users/eyasir329"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/eyasir329"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/eyasir329/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/eyasir329"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://www.stopstalk.com/user/profile/eyasir_shu_cse_002"><img alt="StopStalk" src="https://img.shields.io/badge/StopStalk-0f172a?style=for-the-badge" /></a>
+  <a href="https://clist.by/coder/eyasir329/"><img alt="CLIST" src="https://img.shields.io/badge/CLIST-334155?style=for-the-badge" /></a>
+</p>
+
+---
+
+## 💼 Leadership & Experience
+
+**🎖️ Programming Secretary, [Netrokona University Programming Club](https://github.com/eyasir329/NEUPC)**, *Aug 2025 – Aug 2026*
+
+- Designed a **competitive programming syllabus** and ran practice contests and training sessions for club members.
+- Founded the club's **Discord community** to keep discussions, resources and contest announcements in one place.
+- Built and maintained the **[NEUPC platform](https://github.com/eyasir329/NEUPC)** to track members' progress and support fellow programmers.
+
+<details>
+<summary><b>🎓 Education &amp; 📜 Certifications (click to expand)</b></summary>
+<br />
+
+| | Details | Period |
+| :-: | :-- | :-: |
+| 🎓 | **B.Sc. in Computer Science &amp; Engineering**, Netrokona University | 2022 – 2026 |
+| 📘 | **HSC**, Govt. Ashek Mahmud College (GPA 5.00 / 5.00) | 2019 – 2020 |
+| 📗 | **SSC**, Jamalpur Zilla School (GPA 5.00 / 5.00) | 2017 – 2018 |
+| 🤖 | **AI/ML Expert**, Phitron (Batch 01): supervised/unsupervised learning, deep learning, applied AI projects | 2025 |
+| 🌐 | **Responsive Web Design**, Creative IT Institute, Dhaka: HTML5, CSS3, JavaScript, jQuery | 2021 |
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/eyasir329">
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eyasir329&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=38bdf8&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/eyasir329">
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir329&langs_count=8&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&hide=css,scss,html" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eyasir329">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=eyasir329&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eyasir329">
+    <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=eyasir329&bg_color=0d1117&color=22d3ee&line=38bdf8&point=f59e0b&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Activity" />
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyasir329/eyasir329/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyasir329/eyasir329/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/eyasir329/eyasir329/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Work Together
+
+<p align="center">
+  I'm looking for <b>Junior Software Engineer / Full-Stack Developer</b> roles, and I'm also open to <b>DevOps &amp; Cloud</b>, <b>QA</b> and <b>AI/ML Engineering</b> positions.<br />
+  If you're hiring, or you'd like to build something together, I'd love to hear from you.
+</p>
+
+<p align="center">
+  <a href="mailto:eyasir329@gmail.com"><img alt="Hire me" src="https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me-eyasir329%40gmail.com-22c55e?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/eyasir329/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img alt="Profile views" src="https://visitcount.itsvg.in/api?id=eyasir329&label=Profile%20Views&color=1&icon=8&pretty=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" />
 </p>
