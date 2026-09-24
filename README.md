@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.eyasir329.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-eyasir329.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/eyasir329/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eyasir329-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eyasir329/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-eyasir329-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" /></a>
   <a href="mailto:eyasir329@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-eyasir329%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/eyasir329"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-eyasir329-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.facebook.com/eyasir329"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-eyasir329-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -183,22 +183,22 @@ const eyasir = {
 
 <p align="center">
   <a href="https://github.com/eyasir329">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eyasir329&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=38bdf8&text_color=c9d1d9" />
+    <img width="100%" alt="GitHub profile details and contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyasir329&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eyasir329">
+    <img width="49%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eyasir329&theme=tokyonight" />
   </a>
   <a href="https://github.com/eyasir329">
-    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasir329&langs_count=8&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&hide=css,scss,html" />
+    <img width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyasir329&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/eyasir329">
     <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=eyasir329&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/eyasir329">
-    <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=eyasir329&bg_color=0d1117&color=22d3ee&line=38bdf8&point=f59e0b&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Activity" />
   </a>
 </p>
 
@@ -221,13 +221,11 @@ const eyasir = {
 
 <p align="center">
   <a href="mailto:eyasir329@gmail.com"><img alt="Hire me" src="https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me-eyasir329%40gmail.com-22c55e?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="https://www.linkedin.com/in/eyasir329/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/eyasir329/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img alt="Profile views" src="https://visitcount.itsvg.in/api?id=eyasir329&label=Profile%20Views&color=1&icon=8&pretty=true" />
-  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=eyasir329&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
